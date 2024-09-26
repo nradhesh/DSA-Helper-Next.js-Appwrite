@@ -1,6 +1,3 @@
-Here’s the complete `README.md` file with all necessary bash commands included directly:
-
-```md
 # DSA Helper - Next.js + Appwrite
 
 This is the **DSA Helper** project built using [Next.js](https://nextjs.org/) and [Appwrite](https://appwrite.io/). The project integrates various technologies including Radix UI, Tailwind CSS, Zustand, and others.
